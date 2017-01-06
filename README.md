@@ -2,7 +2,7 @@
 
 - List of all iOS system sounds.
 
-- Runs on iPhone, iPad. (Simulator doesn´t play all Sounds)
+- Runs on iPhone & iPad. (Simulator doesn´t play all Sounds)
 
 - Project made with Xcode 8 and Swift 3.
 
@@ -19,7 +19,6 @@ AudioServicesPlaySystemSound(1000) // MailReceived
 ```
 <br>
 ##All system sounds
-
 <table>
 <thead>
 <tr>
@@ -659,4 +658,4 @@ AudioServicesPlaySystemSound(1000) // MailReceived
 
 <br>
 ##Screenshot
-![screenshot](https://cloud.githubusercontent.com/assets/24958348/21720292/87dda5a2-d422-11e6-96bd-b3e6d87f201f.png "Screenshot")
+<img id = "screenshot" src="https://cloud.githubusercontent.com/assets/24958348/21720292/87dda5a2-d422-11e6-96bd-b3e6d87f201f.png" width="500">
