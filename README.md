@@ -8,16 +8,17 @@
 
 - App: Table Cell Structure -> Category (SystemSoundID)
 
+- [Screenshot](#screenshot)
 
-##Play system sound:
+<br>
+##Play system sound
 ```swift
 import AudioToolbox
 
 AudioServicesPlaySystemSound(1000) // MailReceived
 ```
-
-
-##All system sounds:
+<br>
+##All system sounds
 
 <table>
 <thead>
@@ -655,3 +656,7 @@ AudioServicesPlaySystemSound(1000) // MailReceived
 </tr>
 </tbody>
 </table>
+
+<br>
+##Screenshot
+![screenshot](https://cloud.githubusercontent.com/assets/24958348/21720292/87dda5a2-d422-11e6-96bd-b3e6d87f201f.png "Screenshot")
